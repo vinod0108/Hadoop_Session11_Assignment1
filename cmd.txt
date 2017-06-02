@@ -1,0 +1,1 @@
+flume-ng agent --conf-file /etc/flume-ng/conf/flume.conf  --name TwitterAgent --classpath /MyFolder/cdh-twitter-example-master/flume-sources/target/flume-sources-1.0-SNAPSHOT.jar
